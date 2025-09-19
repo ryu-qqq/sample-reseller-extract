@@ -1,0 +1,32 @@
+# 개인 데이터 제외
+erp_order_form.xlsx
+리셀러_*.xlsx
+*.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# 임시 파일
+*.tmp
+*.bak
+*.log
