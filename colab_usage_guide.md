@@ -3,13 +3,13 @@
 ## 📌 5초만에 시작하기
 
 ### 방법 1: 직접 실행 (가장 쉬움)
-1. **링크 클릭**: [여기에 Colab 링크 추가]
+1. **링크 클릭**: [👉 여기를 클릭하세요](https://colab.research.google.com/github/ryu-qqq/sample-reseller-extract/blob/main/reseller_analyzer_colab.ipynb)
 2. **파일 업로드**: 엑셀 파일 선택
 3. **실행 버튼**: ▶️ 클릭
 4. **결과 다운로드**: 자동 다운로드
 
 ### 방법 2: GitHub에서 실행
-1. GitHub 링크: `github.com/[your-username]/reseller-analyzer`
+1. GitHub 링크: `github.com/ryu-qqq/sample-reseller-extract`
 2. "Open in Colab" 버튼 클릭
 3. 위와 동일하게 진행
 

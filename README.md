@@ -1,5 +1,7 @@
 # 🎯 리셀러 자동 판단 시스템
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ryu-qqq/sample-reseller-extract/blob/main/reseller_analyzer_colab.ipynb)
+
 **센트룸 제품 구매 고객 중 리셀러(재판매자)를 자동으로 찾아주는 프로그램**
 
 ## 📌 이 프로그램이 하는 일
